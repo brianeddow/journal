@@ -1,0 +1,6 @@
+duke cunningham curtains  4 25
+duke cunningham waffle maker  9 45
+duke cunningham table 2 90
+joan wafford  doughnut  20  1
+joan wafford  espresso  20  2
+joan wafford  croissant 15  3

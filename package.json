@@ -1,0 +1,33 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "For those who prefer typing over writing",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Brian Eddow",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1219.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "connect-sqlite3": "^0.9.13",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "method-override": "^3.0.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "randomstring": "^1.2.3",
+    "uuid": "^9.0.0"
+  },
+  "proxy": "http://localhost:3000",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
