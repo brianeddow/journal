@@ -2,7 +2,7 @@
 
 ## React frontend, served via Node, stored on Amazon DynamoDB
 
-- [x] type ~~write~~~
+- [x] type ~~write~~
 - [x] express yourself
 - [x] secure data
 
